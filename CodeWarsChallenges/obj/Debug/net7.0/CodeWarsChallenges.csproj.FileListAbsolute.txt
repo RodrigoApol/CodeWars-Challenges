@@ -1,0 +1,14 @@
+C:\dev\CodeWarsChallenges\bin\Debug\net7.0\CodeWarsChallenges.exe
+C:\dev\CodeWarsChallenges\bin\Debug\net7.0\CodeWarsChallenges.deps.json
+C:\dev\CodeWarsChallenges\bin\Debug\net7.0\CodeWarsChallenges.runtimeconfig.json
+C:\dev\CodeWarsChallenges\bin\Debug\net7.0\CodeWarsChallenges.dll
+C:\dev\CodeWarsChallenges\bin\Debug\net7.0\CodeWarsChallenges.pdb
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.AssemblyInfoInputs.cache
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.AssemblyInfo.cs
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.csproj.CoreCompileInputs.cache
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.dll
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\refint\CodeWarsChallenges.dll
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.pdb
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\CodeWarsChallenges.genruntimeconfig.cache
+C:\dev\CodeWarsChallenges\obj\Debug\net7.0\ref\CodeWarsChallenges.dll
